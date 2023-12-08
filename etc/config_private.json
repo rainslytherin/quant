@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "60.204.236.85",
+    "port": 3306,
+    "username": "root",
+    "password": "SecDev123!",
+    "database": "quant"
+  }
+}
